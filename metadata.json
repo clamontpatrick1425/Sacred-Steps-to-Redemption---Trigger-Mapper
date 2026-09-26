@@ -1,0 +1,6 @@
+{
+  "name": "Sacred Steps to Redemption - Trigger Mapper",
+  "description": "Universal Sacred Step Trigger Mapper for real-time spiritual recovery using the Sacred S.T.E.P. Method™.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

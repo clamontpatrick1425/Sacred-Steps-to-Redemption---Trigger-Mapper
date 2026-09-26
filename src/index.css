@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-sand: #F9F6F0;
+    --color-gold: #D4AF37;
+    --color-sacred-blue: #1C2A39;
+    --color-sage: #7A8B7B;
+    --color-offblack: #2B2B2B;
+  }
+  
+  body {
+    background-color: #F9F6F0;
+    color: #1C2A39;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+}
+
+.font-cormorant {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+}
+
+.font-cinzel {
+  font-family: 'Cinzel', serif;
+}
+
+.font-jakarta {
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+}
+
+.font-caveat {
+  font-family: 'Caveat', cursive;
+}
