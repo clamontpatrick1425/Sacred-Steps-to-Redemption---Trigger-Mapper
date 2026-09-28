@@ -258,12 +258,9 @@ export const ContinueTheJourney: React.FC<ContinueTheJourneyProps> = ({
                 <Headphones className="w-8 h-8 stroke-[1.8]" />
               </div>
               <div>
-                <span className="font-jakarta text-[11px] uppercase tracking-widest text-[#D4AF37] font-semibold flex items-center gap-1.5">
-                  <Radio className="w-3.5 h-3.5 text-[#D4AF37] animate-pulse" />
+                <h3 className="font-cormorant text-xl sm:text-2xl md:text-3xl font-bold text-[#D4AF37] tracking-tight flex items-center gap-2">
+                  <Radio className="w-5 h-5 text-[#D4AF37] animate-pulse" />
                   <span>Sacred Steps: 90-Second Daily Podcast</span>
-                </span>
-                <h3 className="font-cormorant text-xl sm:text-2xl md:text-3xl font-bold text-[#F9F6F0] tracking-tight mt-0.5">
-                  A Path to Recovery, A Life in Grace
                 </h3>
               </div>
             </div>

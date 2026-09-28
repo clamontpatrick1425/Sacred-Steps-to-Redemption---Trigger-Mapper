@@ -32,10 +32,6 @@ export const EmblemHeader: React.FC<EmblemHeaderProps> = ({
           Sacred Steps to Redemption
         </h1>
 
-        <p className="font-cormorant italic text-lg sm:text-xl text-[#7A8B7B] mt-1 font-medium">
-          A Prayerful Path to Addiction Recovery
-        </p>
-
         {/* Tagline */}
         <p className="text-xs sm:text-sm tracking-wider uppercase text-[#1C2A39]/70 mt-2 font-jakarta">
           A Path to Recovery, A Life in Grace
